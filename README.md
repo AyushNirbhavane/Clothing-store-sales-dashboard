@@ -31,12 +31,13 @@ regional performance to support business decisions.
 - What share of orders are delivered, cancelled or refunded?
 
 ## 💡 Key Insights
-- Women account for about 69% of orders and about 64% of revenue
-  (₹1.36 Cr vs ₹0.76 Cr for men)
-- Amazon is the largest channel at about 35% of orders, followed by Flipkart at about 22%
-- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states by revenue
-- About 92% of orders are delivered; cancellations and refunds are about 4–5%
-- Ethnic Dress is a top-selling category
+- Total revenue of ₹2.12 Cr from 31,047 orders and 28,437 customers
+- Women generate 64% of revenue vs 36% from men
+- Amazon is the top channel (35% of orders), followed by Myntra (23%) and Flipkart (22%)
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states by sales
+- 92% of orders are delivered; the other 8% are cancelled, returned or refunded
+- Sets, Kurtas and Western Dresses are the best-selling categories
+- Order volume and sales peak in March and decline through the year
 
 ## 📁 Files
 | File | Description |
