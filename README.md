@@ -40,10 +40,7 @@ regional performance to support business decisions.
 - Order volume and sales peak in March and decline through the year
 
 ## 📁 Files
-| File | Description |
-|---|---|
-| `Clothing_Store_Data_Analysis.xlsx` | Full workbook: raw data, pivots, dashboard |
-| `screenshots/` | Dashboard previews |
+| `Clothing_Store_Sales_Dashboard.xlsx` | Full workbook: raw data, pivots, dashboard |
 
 ## 🚀 How to Use
 Download the `.xlsx` file and open it in Excel (2016 or later). Use the slicers on
