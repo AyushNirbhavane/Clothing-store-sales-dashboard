@@ -47,4 +47,4 @@ Download the `.xlsx` file and open it in Excel (2016 or later). Use the slicers 
 the dashboard sheet to filter the data.
 
 ## 👤 Author
-Hokage · [LinkedIn](www.linkedin.com/in/ayush-nirbhavane)
+Ayush Nirbhavane · [LinkedIn](https://www.linkedin.com/in/ayush-nirbhavane)
