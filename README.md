@@ -3,7 +3,7 @@
 An interactive Excel dashboard analyzing annual sales performance of an
 online clothing store across marketplaces such as Amazon, Myntra, Flipkart and Ajio.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## 📌 Objective
 Turn raw order data into insights on revenue, customer behavior, sales channels and
